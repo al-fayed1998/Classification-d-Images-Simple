@@ -1,8 +1,9 @@
 # Classification-d-Images-Simple
 Description
-Ce projet, créé par Deo, met en œuvre une pipeline de machine learning pour la reconnaissance faciale et la classification d'images. Le pipeline inclut la détection de visages, l'extraction de caractéristiques faciales, la normalisation des données, et l'entraînement d'un modèle de réseau de neurones. Le projet utilise des bibliothèques populaires telles que OpenCV, Scikit-learn, Keras, et FaceNet de Pytorch.
+Ce projet, créé par Mouhammad et Deo, met en œuvre une pipeline de machine learning pour la reconnaissance faciale et la classification d'images. Le pipeline inclut la détection de visages, l'extraction de caractéristiques faciales, la normalisation des données, et l'entraînement d'un modèle de réseau de neurones. Le projet utilise des bibliothèques populaires telles que OpenCV, Scikit-learn, Keras, et FaceNet de Pytorch.
 
-Table des Matières
+Table des Matières:
+
 Installation
 Utilisation
 Structure du Projet
